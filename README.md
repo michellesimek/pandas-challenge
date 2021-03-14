@@ -1,7 +1,7 @@
 # pandas-challenge
 Homework Assignment #4 focusing on Python Pandas.
 
-The purpose of this assignment was to the analyze data from a csv using the Pandas library and Jupyter Notebook. 
+The purpose of this assignment was to the analyze data from a csv using the Pandas library and Jupyter Notebook. The csv contained purchasing data for a fantasy game called Heroes of Pymoli. 
 
 The report was to generate a report the included the following:
 
