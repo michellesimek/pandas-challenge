@@ -1,15 +1,12 @@
 # Trends of Heroes of Pymoli 
-After analyzing the data for the fantasy game Heroes of Pymoli, we notice a few 
-trends.
+We can see a few trends after analyzing the purchasing data for the fantasy game Heroes of Pymoli.
 
 ### Trend One
-Looking the gender demographics, males appear to make more optional purchases in
-the game compared to the other genders, with males making over half of the purchases in the dataset. 
+Looking at the gender demographics, males are more likely to make optional purchases in
+the game compared to the other genders, with males purchasing over half of the optional items in the dataset. 
 
 ### Trend Two
-Players that fall into the age group 20-24 are more likely to purchase items in the game, while the youngest
-oldest players (age groups <10 and 40+) are the least likely to make additional purchases in the game.
+There was an upward trend relating to the number of purchases and age groups. The number of purchases went up as age went up, wtih players falling into the age group 20-24 making the most purchases in the game. After 20-24, there was a downward trend relating to the number of purchases and age. The youngest and oldest age groups (age groups <10 and 40+) made the least amount of purchases out of all.
 
 ### Trend Three
-Of all the optional purchasbale items in the game, Final Critic was both the 
-most profitable and the most popular. 
+There were 780 total purchases between 179 unique items. There is an increase in purchases favoring Final Critic and Oathbreaker, Last Hope of the Breaking Storm. Of all the optional purchasbale items in the game, Final Critic was both the most profitable and the most popular amoung players with 13 total purchases. 
